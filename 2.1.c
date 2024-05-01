@@ -2,7 +2,7 @@
 
 int main() {
     int month, year, last_day;
-    printf("Enter the month (1-12): ");
+    printf("Enter the monthssss (1-12): ");
     scanf("%d", &month);
     printf("Enter the year: ");
     scanf("%d", &year);
